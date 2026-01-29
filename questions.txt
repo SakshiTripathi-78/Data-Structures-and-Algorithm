@@ -1,0 +1,14 @@
+1.Creating a node
+2.Traversing the linked list.
+
+3.Adding a new node at the beginning.
+4.Adding a node at the end of the linked list.
+5.Insertion at a given position.
+
+6.Deleting the first node.
+7.Deleting the end node.
+8.Deleting any specific node.
+
+9.Searching a number in a linked list.
+10.Reverse the linked list.
+
